@@ -9,7 +9,10 @@ I enjoy discussions related to Web Development, and Software Development in gene
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdo2m2)](https://www.linkedin.com/in/abdo2m2)
 [![Medium](https://img.shields.io/badge/-Medium-222222?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@abdo2m2)](https://medium.com/@abdo2m2)
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/abdo2m2)](https://twitter.com/abdo2m2)
+
+<!--
 [![GitHub Abdo](https://img.shields.io/github/followers/abdo?label=follow&style=social)](https://github.com/abdo)
+--->
 
 <br/>
 
@@ -17,9 +20,7 @@ I enjoy discussions related to Web Development, and Software Development in gene
 
 <!--
 <br/>
-
 <img src="https://github-readme-stats.vercel.app/api?username=abdo&show_icons=true&hide=contribs,issues,stars&layout=compact" />
-
 --->
 
 <!---
