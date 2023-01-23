@@ -2,7 +2,7 @@
 
 # Abdo
 
-I am Abdelrahman (Abdo for short), a 𝗙𝗿𝗼𝗻𝘁 𝗘𝗻𝗱 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 at Huspy. I am experienced in core 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 and the frameworks around it. I use 𝗥𝗲𝗮𝗰𝘁 𝗝𝗦 and 𝗡𝗼𝗱𝗲 𝗝𝗦 everyday. <br/>
+I am Abdelrahman (Abdo for short), a 𝗙𝗿𝗼𝗻𝘁 𝗘𝗻𝗱 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 at Huspy. I am experienced in core TypeScript / JavaScript and the frameworks around them. I use 𝗥𝗲𝗮𝗰𝘁 𝗝𝗦 and 𝗡𝗼𝗱𝗲 𝗝𝗦 everyday. <br/>
 I enjoy discussions related to Web Development, and Software Development in general.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdo2m2)](https://www.linkedin.com/in/abdo2m2)
