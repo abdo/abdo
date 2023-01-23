@@ -11,7 +11,7 @@ I enjoy discussions related to Web Development, and Software Development in gene
 <!--
 [![GitHub Abdo](https://img.shields.io/github/followers/abdo?label=follow&style=social)](https://github.com/abdo)
 --->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdo&layout=compact&hide=html" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdo&layout=compact&hide=html" /> -->
 
 <!--
 <br/>
